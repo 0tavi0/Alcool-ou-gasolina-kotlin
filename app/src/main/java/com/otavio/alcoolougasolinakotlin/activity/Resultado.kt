@@ -1,7 +1,8 @@
-package com.otavio.alcoolougasolinakotlin
+package com.otavio.alcoolougasolinakotlin.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.otavio.alcoolougasolinakotlin.R
 import kotlinx.android.synthetic.main.activity_resultado.*
 
 class Resultado : AppCompatActivity() {
